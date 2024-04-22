@@ -9,6 +9,7 @@ for i in range(1, num + 1):
         print(i, '+', j, '=', i + j)
     print()
 ````
+-------
 ````ruby
 n = int(input())
 for i in range (1, n//2+2):
